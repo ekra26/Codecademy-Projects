@@ -10,9 +10,8 @@ This is a compilation of projects I worked on to complete the Full-Stack Enginee
 * CSS
 * JavaScript
 
-#### Other information
+### Other information
 
 - Projects status: 
-
-* Topic - Making a website responsive:
+    * Topic - Making a website responsive:
     - Fotomatic: In-progress

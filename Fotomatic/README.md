@@ -10,6 +10,6 @@ In this project I will fix a broken version of a responsive website called Fotom
 * CSS
 * JavaScript
 
-#### Other information
+### Other information
 
 - Projects status: In-progress

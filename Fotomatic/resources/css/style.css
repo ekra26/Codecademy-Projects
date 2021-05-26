@@ -25,7 +25,8 @@ html {
 }
 
 .image-container img {
-  display: block;
+  width:100%;
+  height: auto;
 }
 
 @media only screen and (max-width: 760px) {
@@ -113,10 +114,14 @@ header .mobile {
 /* Sign Up Section */
 
 #sign-up-section {
+  background-image: url('../images/banner-landingpage.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   display: flex;
   justify-content: flex-start;
   align-items: flex-start;
-  height: 43.5rem;
+  height: 43.5rem; 
 }
 
 #sign-up-cta {
@@ -294,9 +299,11 @@ header .mobile {
 }
 
 #filters-section .images-container {
+  display: flex;
   max-width: 100%;
   padding: 0 1%;
 }
+
 
 @media only screen and (max-width: 760px) {
   #filters-section {
@@ -335,7 +342,7 @@ header .mobile {
 }
 
 #quotes-section content {
-  padding: 5rem 0;
+  padding: 5rem 5rem;
 }
 
 #quotes-section quote {
@@ -349,6 +356,7 @@ header .mobile {
 
 #quotes-section quote-citation {
   height: 1.875rem;
+  padding-left: 1.875rem;
 }
 
 @media only screen and (max-width: 760px) {
@@ -372,7 +380,7 @@ header .mobile {
 
 footer {
   background-color: #9b9b9b;
-  padding: 1.5rem 2rem;
+  padding: 1.9rem 2rem;
 }
 
 footer .content {
