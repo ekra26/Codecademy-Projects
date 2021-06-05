@@ -2,7 +2,7 @@
 
 ## Introduction: 
 
-This is a compilation of projects I worked on to complete the Full-Stack Engineer Career Path of Codecademy. 
+This is a compilation of some projects I worked on to complete the Full-Stack Engineer Career Path of Codecademy. 
 
 ### Technologies/Languages
 
@@ -15,3 +15,4 @@ This is a compilation of projects I worked on to complete the Full-Stack Enginee
 - Projects status: 
     * Topic - Making a website responsive:
     - Fotomatic: In-progress
+    - TeaCozy: In-progress
