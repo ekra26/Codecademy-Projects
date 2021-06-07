@@ -15,4 +15,4 @@ This is a compilation of some projects I worked on to complete the Full-Stack En
 - Projects status: 
     * Topic - Making a website responsive:
     - Fotomatic: In-progress
-    - TeaCozy: In-progress
+    - TeaCozy: Complete
