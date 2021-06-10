@@ -16,3 +16,4 @@ This is a compilation of some projects I worked on to complete the Full-Stack En
     * Topic - Making a website responsive:
     - Fotomatic: In-progress
     - TeaCozy: Complete
+    - Company Home Page with Flexbox: In-progress
