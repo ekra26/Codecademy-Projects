@@ -12,4 +12,4 @@ In this project I will fix a broken version of a responsive website called Fotom
 
 ### Other information
 
-- Projects status: In-progress
+- Projects status: Complete
